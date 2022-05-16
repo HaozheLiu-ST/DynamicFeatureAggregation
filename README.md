@@ -1,5 +1,5 @@
 # DynamicFeatureAggregation
-This is an official pytorch implementation for the proposed method (Dynamic Feature Aggregation)
+This is an official pytorch implementation of the paper "Robust Representation via Dynamic Feature Aggregation" 
 
 ## Requirements
 
